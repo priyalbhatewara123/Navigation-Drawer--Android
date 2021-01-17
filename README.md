@@ -1,10 +1,10 @@
 # Navigation-Drawer--Android
-The navigation drawer is a UI panel that shows your app's main navigation menu. The drawer appears when the user touches the drawer icon in the app bar or when the user swipes a finger from the left edge of the screen.
+The navigation drawer is a UI panel that shows your app's main navigation menu📜. The drawer appears when the user touches the drawer icon in the app bar or when the user swipes a finger from the left edge of the screen.
 
-
+## Demo
 <img src="https://github.com/priyalbhatewara123/Navigation-Drawer--Android/blob/master/Screenshots/screenshot1.jpeg" width="300">
 
-**Steps to create Navigation Drawer:**
+## Steps to create Navigation Drawer:
 
 1. Change the theme of the app to NoActionBar.
 2. Create a customised toolbar (an XML layout file)
